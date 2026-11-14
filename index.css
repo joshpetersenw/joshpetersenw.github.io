@@ -302,7 +302,7 @@ body {
     margin-bottom: 40px;
 }
 
-.copyright {
+.page-footer {
     font-size: 0.85rem;
     color: var(--text-secondary);
 }
